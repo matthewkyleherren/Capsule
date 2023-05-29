@@ -9202,7 +9202,7 @@ img {
 
 @font-face {
     font-family: 'Gridular';
-    src: url('../https://uploads-ssl.webflow.com/640eeddd1d1ef84438c097d7/640f16e429fb0e5274d78950_Gridular-Regular.otf') format('opentype');
+    src: url('/assets/fonts/640f16e429fb0e5274d78950_Gridular-Regular.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -9210,7 +9210,7 @@ img {
 
 @font-face {
     font-family: 'Rmneue';
-    src: url('../https://uploads-ssl.webflow.com/640eeddd1d1ef84438c097d7/640f179a67ef8d1f8e334b56_RMNeue-Regular.otf') format('opentype');
+    src: url('/assets/fonts/640f179a67ef8d1f8e334b56_RMNeue-Regular.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -9218,7 +9218,7 @@ img {
 
 @font-face {
     font-family: 'Rmneue';
-    src: url('../https://uploads-ssl.webflow.com/640eeddd1d1ef84438c097d7/640f179acb25590a5b89fe22_RMNeue-SemiBold.otf') format('opentype');
+    src: url('/assets/fonts/640f179acb25590a5b89fe22_RMNeue-SemiBold.otf') format('opentype');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -9226,7 +9226,7 @@ img {
 
 @font-face {
     font-family: 'Rmmono';
-    src: url('../https://uploads-ssl.webflow.com/640eeddd1d1ef84438c097d7/640f1c8009141151b14835d7_RMMono-Regular.otf') format('opentype');
+    src: url('/assets/fonts/640f1c8009141151b14835d7_RMMono-Regular.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
