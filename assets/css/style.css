@@ -9231,3 +9231,7 @@ img {
     font-style: normal;
     font-display: swap;
 }
+
+.overlay-screen {
+    display: none;
+}
